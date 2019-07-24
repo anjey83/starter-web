@@ -18,3 +18,7 @@ various commands using a web project.
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## Hot To Contribute
+
+###Copyright
+
+2019  Git.Training.
